@@ -1,0 +1,28 @@
+body{
+    background-image: url('smart-watch.jpg');
+    background-repeat: no-repeat;
+    
+}
+#cam{
+    margin-bottom: 500px; 
+    margin-right: 100px;
+    margin-top:550px;
+    margin-left: 50px;
+    height: 550px;
+}
+#div{
+    margin-top: 50px;
+}
+#mus{
+    margin-left: 00px;
+    margin-top:550px;
+    height: 500rem;
+    padding: 20px;
+
+}
+#msg{
+    margin-left: 350px;
+    margin-top:550px;
+    height: 500rem;
+    padding: 20px;
+}
